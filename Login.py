@@ -10,3 +10,4 @@ username = driver.find_element(By.ID, "username")
 username.send_keys(username_enter)
 password = driver.find_element(By.ID, "password")
 password.send_keys(password_enter)
+myName = "Hello test"
